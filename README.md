@@ -1,5 +1,5 @@
 ## Hi there 👋
-Is this a CV? Logbook? Highlights? Maybe a bit of all. Currently hired by Postman, as part of their <a href="https://blog.postman.com/announcing-postman-open-technologies/">Open Technologies Team</a>, as a Lead Software Engineer working on <a href="https://github.com/orgs/asyncapi/repositories">AsyncAPI</a> full time.
+Is this a CV? Logbook? Highlights? Maybe a bit of all. Currently hired by Postman, as part of their <a href="https://blog.postman.com/announcing-postman-open-technologies/">Open Technologies Team</a>, as a Lead Software Engineer working on <a href="https://github.com/orgs/asyncapi">AsyncAPI</a> full time.
 
 # These are the projects I am working on 🔭
 
