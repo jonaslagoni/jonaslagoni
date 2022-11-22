@@ -12,14 +12,14 @@ Is this a CV? Logbook? Highlights? Maybe a bit of all. Currently hired by Postma
   </tr>
   <tr style="vertical-align: top;">
     <td><h1><a href="https://github.com/GamingAPI/">GamingAPI</a></h1><p><a href="https://gamingapi.org/">GamingAPI.org</a> is a side project of mine where I try to use everything from AsyncAPI (tooling and spec) and incorporate it into a standard for interacting with all types of game servers (focus on <a href="https://rust.facepunch.com/">Rust</a>, upcoming Minecraft, etc.) through generated SDK's, documentation, governance, and more!</p></td>
-    <td><h1><a href="https://github.com/GamingAPI/">Somerthing</a></h1> Who doesn't like games? How hard can it be to make a rough-like, 2d, progressive, multiplayer game? <b>TBA</b></td>
+    <td><h1><a href="https://github.com/GamingAPI/">Somerthing</a></h1> Who doesn't like games? How hard can it be to make a roguelike, 2d, progressive, multiplayer game? <b>TBA</b></td>
   </tr>
 </table>
 
 # Tooling
 Here are all the tools I am actively maintaining regardless of what my day job is.
 
-<table style="table-layout: fixed; width: 100%; vertical-align: top;">
+<table style="table-layout: fixed; width: 100%;">
   <tr>
     <td colspan="2">
     <h2 align="center"><b>Where I spend most of my time</b></h1>
@@ -31,8 +31,9 @@ Here are all the tools I am actively maintaining regardless of what my day job i
      alt="Modelina banner"/><a href="https://github.com/asyncapi/modelina">Modelina</a> is a library I started with <a href="https://github.com/magicmatatjahu">Maciej</a>, which is for generating models from various inputs (AsyncAPI, OpenAPI, JSON Schema, TypeScript models, etc) into various outputs (TypeScript, C#, Python, etc) in a highly customizable, extendable and easy to integrate with other tools and platforms. It is built to support different serialization libraries (XML, JSON, bytes, etc) so you can adapt the models directly to your need. </br></br> Try the playground here: <a href="https://www.asyncapi.com/modelina">asyncapi.com/modelina</a></br> Find a bunch of examples here: <a href="https://github.com/asyncapi/modelina/tree/master/examples#examples">modelina examples</a>
     </td>
   </tr>
-  <tr>
-    <td> <video src="./edavisualizer.mp4"></video> <a href="https://github.com/asyncapi/EDAVisualiser/">EDAVisualiser</a> is a library first making its appearance in the <a href="https://studio.asyncapi.com/">AsyncAPI Studio</a>, and is built to better visualize a single application (from AsyncAPI input or core building blocks) of it's outgoing and incoming external operations to others. It can also be a complex system comprised of multiple applications. It allows this through something called <a href="https://github.com/asyncapi/EDAVisualiser#views">views</a>. It of course supports all the major design frameworks, React, Next, Vue, Angular, etc.</br></br> Try the playground here: <a href="asyncapi.github.io/EDAVisualiser">asyncapi.github.io/EDAVisualiser</a>
+  <tr style="vertical-align: top;">
+    <td><img src="asyncapi-edavisualiser.png"
+     alt="Edavisualiser banner"/><a href="https://github.com/asyncapi/EDAVisualiser/">EDAVisualiser</a> is a library first making its appearance in the <a href="https://studio.asyncapi.com/">AsyncAPI Studio</a>, and is built to better visualize a single application (from AsyncAPI input or core building blocks) of it's outgoing and incoming external operations to others. It can also be a complex system comprised of multiple applications. It allows this through something called <a href="https://github.com/asyncapi/EDAVisualiser#views">views</a>. It of course supports all the major design frameworks, React, Next, Vue, Angular, etc.</br></br> Try the playground here: <a href="asyncapi.github.io/EDAVisualiser">asyncapi.github.io/EDAVisualiser</a>
     </td>
     <td>
     <img src="asyncapi-generator.png" alt="AsyncAPI generator banner"/> Want to generate anything from an AsyncAPI document? Yep, this is the library to use then! The AsyncAPI <a href="https://github.com/asyncapi/generator">generator</a> can be used in combination with templates to generate some kind of output (code, documentation, configuration files, you name it).
@@ -45,7 +46,7 @@ Here are all the tools I am actively maintaining regardless of what my day job i
     <h2 align="center"><b>Where I spend less time, but actively maintain</b></h1>
     </td>
   </tr>
-  <tr>
+  <tr style="vertical-align: top;">
     <td>
     <h3>.Net/C# NATS template</h3> Generate a <a href="https://github.com/asyncapi/dotnet-nats-template">.Net/C# NATS library wrapper</a> for your AsyncAPI document.
     </td>
@@ -56,7 +57,7 @@ Here are all the tools I am actively maintaining regardless of what my day job i
     <img src="generator-react-sdk.png" alt="AsyncAPI generator React SDK"/>Used by the AsyncAPI generator to <a href="https://github.com/asyncapi/generator-react-sdk">render React templates</a> as an alternative to Nunjucks templating.
     </td>
   </tr>
-  <tr>
+  <tr style="vertical-align: top;">
     <td>
     <img src="asyncapi-js-parser.png" alt="AsyncAPI JS parser"/> A <a href="https://github.com/asyncapi/dotnet-nats-template">JavaScript parser</a> providing a way to interact with your AsyncAPI documents.
     </td>
