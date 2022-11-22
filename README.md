@@ -32,10 +32,7 @@ Here are all the tools I am actively maintaining regardless of what my day job i
     </td>
   </tr>
   <tr style="vertical-align: top;">
-    <td> <video width="520" height="200" controls>
-  <source src="https://raw.githubusercontent.com/jonaslagoni/jonaslagoni/main/edavisualizer.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video> 
+    <td> <video width="520" height="200" controls src="https://raw.githubusercontent.com/jonaslagoni/jonaslagoni/main/edavisualizer.mp4"></video> 
 <a href="https://github.com/asyncapi/EDAVisualiser/">EDAVisualiser</a> is a library first making its appearance in the <a href="https://studio.asyncapi.com/">AsyncAPI Studio</a>, and is built to better visualize a single application (from AsyncAPI input or core building blocks) of it's outgoing and incoming external operations to others. It can also be a complex system comprised of multiple applications. It allows this through something called <a href="https://github.com/asyncapi/EDAVisualiser#views">views</a>. It of course supports all the major design frameworks, React, Next, Vue, Angular, etc.</br></br> Try the playground here: <a href="asyncapi.github.io/EDAVisualiser">asyncapi.github.io/EDAVisualiser</a>
     </td>
     <td>
