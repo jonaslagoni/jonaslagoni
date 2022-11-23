@@ -99,7 +99,7 @@ Here is an overview of the subjects so far:
 This section is more for me than you, trying to keep track of what I am participating in or have.
 
 Upcoming conferences:
-- (speaking) APIDays Paris 2022, physical, gonna be speaking about `AsyncAPI and schema format complexity`.
+- (speaking) APIDays Paris 2022, in-person, gonna be speaking about `AsyncAPI and schema format complexity`.
 
 <details>
   <summary>Here is a list of previous conferences and speaking arrangements in case you find it interesting.</summary>
