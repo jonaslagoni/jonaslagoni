@@ -5,14 +5,13 @@ Is this a CV? Logbook? Highlights? Maybe a bit of all. Currently hired by Postma
 
 <table  style="table-layout: fixed; width: 100%;">
   <tr>
-    <td colspan="2">
+    <td colspan="1">
     <img src="asyncapi.png"
      alt="AsyncAPI logo"/> While it is my day job, this is my spare-time project as well and is my main focus at the moment. I am part of the <a href="https://www.asyncapi.com/community/tsc">AsyncAPI Technical Steering Committee</a> and maintain a bunch of tools. I am/was also the release coordinator for AsyncAPI 3.0.0, so know my way around all repositories within the organization.
     </td>
   </tr>
   <tr style="vertical-align: top;">
     <td><h1><a href="https://github.com/GamingAPI/">GamingAPI</a></h1><p><a href="https://gamingapi.org/">GamingAPI.org</a> is a side project of mine where I try to use everything from AsyncAPI (tooling and spec) and incorporate it into a standard for interacting with all types of game servers (focus on <a href="https://rust.facepunch.com/">Rust</a>, upcoming Minecraft, etc.) through generated SDK's, documentation, governance, and more!</p></td>
-    <td><h1><a href="https://github.com/GamingAPI/">Somerthing</a></h1> Who doesn't like games? How hard can it be to make a roguelike, 2d, progressive, multiplayer game? <b>TBA</b></td>
   </tr>
 </table>
 
