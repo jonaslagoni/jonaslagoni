@@ -27,7 +27,7 @@ Here are all the tools I am actively maintaining regardless of what my day job i
   <tr>
     <td colspan="2">
     <img src="asyncapi-modelina.png"
-     alt="Modelina banner"/><a href="https://github.com/asyncapi/modelina">Modelina</a> is a library I started with <a href="https://github.com/magicmatatjahu">Maciej</a>, which is for generating models from various inputs (AsyncAPI, OpenAPI, JSON Schema, TypeScript models, etc) into various outputs (TypeScript, C#, Python, etc) in a highly customizable, extendable and easy to integrate with other tools and platforms. It is built to support different serialization libraries (XML, JSON, bytes, etc) so you can adapt the models directly to your need. </br></br> Try the playground here: <a href="https://www.asyncapi.com/modelina">asyncapi.com/modelina</a></br> Find a bunch of examples here: <a href="https://github.com/asyncapi/modelina/tree/master/examples#examples">modelina examples</a>
+     alt="Modelina banner"/><a href="https://github.com/asyncapi/modelina">Modelina</a> is a library I started with <a href="https://github.com/magicmatatjahu">Maciej</a>, which is for generating models from various inputs (AsyncAPI, OpenAPI, JSON Schema, TypeScript models, etc) into various outputs (TypeScript, C#, Python, etc) in a highly customizable, and extendable. It is built to support different serialization libraries (XML, JSON, bytes, etc) so you can adapt the models directly to your need. </br></br> Try the playground here: <a href="https://www.asyncapi.com/modelina">asyncapi.com/modelina</a></br> Find a bunch of examples here: <a href="https://github.com/asyncapi/modelina/tree/master/examples#examples">modelina examples</a>
     </td>
   </tr>
   <tr style="vertical-align: top;">
@@ -97,12 +97,10 @@ Here is an overview of the subjects so far:
 ## Conferences
 This section is more for me than you, trying to keep track of what I am participating in or have.
 
-Upcoming conferences:
-- (speaking) APIDays Paris 2022, in-person, gonna be speaking about `AsyncAPI and schema format complexity`.
-
 <details>
   <summary>Here is a list of previous conferences and speaking arrangements in case you find it interesting.</summary>
   
+- (speaking) APIDays Paris 2022, in-person, gonna be speaking about `AsyncAPI and schema format complexity`.
 - (participating) GOTO Copenhagen 2022, in-person.
 - (participating) Digital Transformation World, TMForum, Copenhagen 2022, in-person
 - (speaking) AsyncAPI conference 2022, had two talks here. The two talks were `Next Generation of AsyncAPI` (watch the recording here: https://www.youtube.com/watch?v=WOMDYzHh-3w) and `The Intricacies of a Single Keyword in AsyncAPI` (watch the recording here: https://www.youtube.com/watch?v=fLAAXAXOGlE)
