@@ -100,6 +100,8 @@ This section is more for me than you, trying to keep track of what I am particip
 <details>
   <summary>Here is a list of previous conferences and speaking arrangements in case you find it interesting.</summary>
   
+- (speaking) AsyncAPI conference, at Sngular Madrid, 2023, in-person
+- (participating) AsyncAPI conference, at IBM London, 2023, in-person
 - (speaking) APIDays Paris 2022, in-person, gonna be speaking about `AsyncAPI and schema format complexity`.
 - (participating) GOTO Copenhagen 2022, in-person.
 - (participating) Digital Transformation World, TMForum, Copenhagen 2022, in-person
