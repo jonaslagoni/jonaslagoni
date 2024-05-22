@@ -100,10 +100,11 @@ This section is more for me than you, trying to keep track of what I am particip
 <details>
   <summary>Here is a list of previous conferences and speaking arrangements in case you find it interesting.</summary>
   
+- (speaking) APIDays conference Helsinki, 2024, in-person, gave a talk about `Navigating the jungle of the AsyncAPI Ecosystem`
 - (speaking) AsyncAPI conference, at Sngular Madrid, 2023, in-person (watch the recording here: https://www.youtube.com/live/FN5eR1Zqh9c?si=A4gxOaJlHCg4ID3P&t=7038)
 - (participating) AsyncAPI conference, at IBM London, 2023, in-person
-- (speaking) APIDays Paris 2022, in-person, gonna be speaking about `AsyncAPI and schema format complexity`.
-- (participating) GOTO Copenhagen 2022, in-person.
+- (speaking) APIDays Paris 2022, in-person, gave a talk about `AsyncAPI and schema format complexity`
+- (participating) GOTO Copenhagen 2022, in-person
 - (participating) Digital Transformation World, TMForum, Copenhagen 2022, in-person
 - (speaking) AsyncAPI conference 2022, had two talks here. The two talks were `Next Generation of AsyncAPI` (watch the recording here: https://www.youtube.com/watch?v=WOMDYzHh-3w) and `The Intricacies of a Single Keyword in AsyncAPI` (watch the recording here: https://www.youtube.com/watch?v=fLAAXAXOGlE)
 - (speaking) API:World 2021, online, talked about `How AsyncAPI can enhance your developer experience`
