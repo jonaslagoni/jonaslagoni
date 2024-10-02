@@ -1,73 +1,38 @@
-## Hi there 👋
-Is this a CV? Logbook? Highlights? Maybe a bit of all. Currently hired by Postman, as part of their <a href="https://blog.postman.com/announcing-postman-open-technologies/">Open Technologies Team</a>, as a Lead Software Engineer working on <a href="https://github.com/orgs/asyncapi">AsyncAPI</a> full time.
+What have, and am I working on? 👀
 
-# These are the projects I am working on 🔭
+# The projects 🔭
 
-<table  style="table-layout: fixed; width: 100%;">
+<table style="table-layout: fixed; width: 100%;">
   <tr>
-    <td colspan="1">
-    <img src="asyncapi.png"
-     alt="AsyncAPI logo"/> While it is my day job, this is my spare-time project as well and is my main focus at the moment. I am part of the <a href="https://www.asyncapi.com/community/tsc">AsyncAPI Technical Steering Committee</a> and maintain a bunch of tools. I am/was also the release coordinator for AsyncAPI 3.0.0, so know my way around all repositories within the organization.
+    <td>
+      <img src="https://github.com/user-attachments/assets/f1dd3b47-4481-42a4-ac8a-63d9547a5a01" alt="EventStack"/>
+      <h1><a href="https://eventstack.tech">EventStack</a></h1><p>Is my company that develops software and offers consultancy and contract work around event-driven architectures and open source software.</p>
     </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/5a839f64-8ed3-49fe-84e2-899cbd7d5027" alt="The Codegen Project banner"/>
+      <h1><a href="https://github.com/the-codegen-project/">The Codegen Project</a></h1><p>Is a next-gen code generator, that easily can be integrated into any project (regardless of language) that simplifies the implementation and testing phase - 100% open source.</td>
   </tr>
   <tr style="vertical-align: top;">
-    <td><h1><a href="https://github.com/GamingAPI/">GamingAPI</a></h1><p><a href="https://gamingapi.org/">GamingAPI.org</a> is a side project of mine where I try to use everything from AsyncAPI (tooling and spec) and incorporate it into a standard for interacting with all types of game servers (focus on <a href="https://rust.facepunch.com/">Rust</a>, upcoming Minecraft, etc.) through generated SDK's, documentation, governance, and more!</p></td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/7f7424be-d981-494d-9f50-8ed32a87198d" alt="GamingAPI banner"/>
+      <h1><a href="https://github.com/GamingAPI/">GamingAPI</a></h1><p><a href="https://gamingapi.org/">GamingAPI.org</a> is a side project of mine where I try to use everything from AsyncAPI (tooling and spec) and incorporate it into a standard for interacting with all types of game servers (focus on <a href="https://rust.facepunch.com/">Rust</a>, upcoming Minecraft, etc.) through generated SDK's, documentation, governance, and more!</p>
+    </td>
+    <td>
+      <img src="asyncapi.png" alt="AsyncAPI logo"/>AsyncAPI was a spare-time project turned full-time job at <a href="https://www.postman.com/">Postman</a> for an amazing 4 years and still engaged with the project. I am part of the <a href="https://www.asyncapi.com/community/tsc">AsyncAPI Technical Steering Committee</a>, release coordinator for v3, and maintainer and creator of a bunch of the <a href="https://github.com/orgs/asyncapi/repositories">open source tools</a> such as;</br>
+      <ul>
+        <li><a href="https://github.com/asyncapi/modelina">Modelina</a> a library I started with <a href="https://github.com/magicmatatjahu">Maciej</a> for generating models from various inputs (AsyncAPI, OpenAPI, JSON Schema, TypeScript models, etc) into various outputs (TypeScript, C#, Python, etc). Try it here <a href="https://modelina.org/playground">modelina.org/playground</a></li>
+        <li><a href="https://github.com/asyncapi/EDAVisualiser/">EDAVisualiser</a> a visualization tool for simple and complex systems, which support all the major design frameworks, React, Next, Vue, Angular, etc. Try it here <a href="https://asyncapi.github.io/EDAVisualiser">asyncapi.github.io/EDAVisualiser</a></li>
+        <li><a href="https://github.com/asyncapi/generator-react-sdk">React SDK</a> a contender to Nunjucks to render templates that could be anything. Read more here <a href="https://www.asyncapi.com/docs/tools/generator/react-render-engine">asyncapi.com/docs/tools/generator/react-render-engine</a></li>
+      </ul>
+    </td>
   </tr>
 </table>
 
 # Tooling
-Here are all the tools I am actively maintaining regardless of what my day job is.
+Here are all the tools I am actively maintaining;
 
-<table style="table-layout: fixed; width: 100%;">
-  <tr>
-    <td colspan="2">
-    <h2 align="center"><b>Where I spend most of my time</b></h1>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-    <img src="asyncapi-modelina.png"
-     alt="Modelina banner"/><a href="https://github.com/asyncapi/modelina">Modelina</a> is a library I started with <a href="https://github.com/magicmatatjahu">Maciej</a>, which is for generating models from various inputs (AsyncAPI, OpenAPI, JSON Schema, TypeScript models, etc) into various outputs (TypeScript, C#, Python, etc) in a highly customizable, and extendable. It is built to support different serialization libraries (XML, JSON, bytes, etc) so you can adapt the models directly to your need. </br></br> Try the playground here: <a href="https://www.asyncapi.com/modelina">asyncapi.com/modelina</a></br> Find a bunch of examples here: <a href="https://github.com/asyncapi/modelina/tree/master/examples#examples">modelina examples</a>
-    </td>
-  </tr>
-  <tr style="vertical-align: top;">
-    <td><img src="asyncapi-edavisualiser.png"
-     alt="Edavisualiser banner"/><a href="https://github.com/asyncapi/EDAVisualiser/">EDAVisualiser</a> is a library first making its appearance in the <a href="https://studio.asyncapi.com/">AsyncAPI Studio</a>, and is built to better visualize a single application (from AsyncAPI input or core building blocks) of it's outgoing and incoming external operations to others. It can also be a complex system comprised of multiple applications. It allows this through something called <a href="https://github.com/asyncapi/EDAVisualiser#views">views</a>. It of course supports all the major design frameworks, React, Next, Vue, Angular, etc.</br></br> Try the playground here: <a href="asyncapi.github.io/EDAVisualiser">asyncapi.github.io/EDAVisualiser</a>
-    </td>
-    <td>
-    <img src="asyncapi-generator.png" alt="AsyncAPI generator banner"/> Want to generate anything from an AsyncAPI document? Yep, this is the library to use then! The AsyncAPI <a href="https://github.com/asyncapi/generator">generator</a> can be used in combination with templates to generate some kind of output (code, documentation, configuration files, you name it).
-    </td>
-  </tr>
-</table>
-<table style="table-layout: fixed; width: 100%; vertical-align: top;">
-  <tr>
-    <td colspan="3">
-    <h2 align="center"><b>Where I spend less time, but actively maintain</b></h1>
-    </td>
-  </tr>
-  <tr style="vertical-align: top;">
-    <td>
-    <h3>.Net/C# NATS template</h3> Generate a <a href="https://github.com/asyncapi/dotnet-nats-template">.Net/C# NATS library wrapper</a> for your AsyncAPI document.
-    </td>
-    <td>
-    <h3>TypeScript NATS template</h3> Generate a <a href="https://github.com/asyncapi/typescript-nats-template">TypeScript NATS library wrapper</a> for your AsyncAPI document.
-    </td>
-    <td>
-    <img src="generator-react-sdk.png" alt="AsyncAPI generator React SDK"/>Used by the AsyncAPI generator to <a href="https://github.com/asyncapi/generator-react-sdk">render React templates</a> as an alternative to Nunjucks templating.
-    </td>
-  </tr>
-  <tr style="vertical-align: top;">
-    <td>
-    <img src="asyncapi-js-parser.png" alt="AsyncAPI JS parser"/> A <a href="https://github.com/asyncapi/dotnet-nats-template">JavaScript parser</a> providing a way to interact with your AsyncAPI documents.
-    </td>
-    <td>
-    <h3>GH Action for bumping .NET versions</h3> <a href="https://github.com/jonaslagoni/gh-action-dotnet-bump">Automatically bump .NET/C# version</a> of libraries, by following semantic release.
-    </td>
-    <td>
-    <h3>GH Action for bumping AsyncAPI documents</h3> <a href="https://github.com/jonaslagoni/gh-action-asyncapi-document-bump">Automatically bump the application version for AsyncAPI documents</a> by following semantic release.
-    </td>
-  </tr>
-</table>
+- <h5>GH Action for bumping .NET versions</h5> <a href="https://github.com/jonaslagoni/gh-action-dotnet-bump">Automatically bump .NET/C# version</a> of libraries, by following semantic release.
+- <h5>GH Action for bumping AsyncAPI documents</h5> <a href="https://github.com/jonaslagoni/gh-action-asyncapi-document-bump">Automatically bump the application version for AsyncAPI documents</a> by following semantic release.
 
 <details>
   <summary>Here is a list of all the previous libraries and projects I have worked on.</summary>
@@ -81,11 +46,13 @@ Here are all the tools I am actively maintaining regardless of what my day job i
 - https://github.com/jonaslagoni/ts-websocket-server-template, an old AsyncAPI generator template for generating a WebSocket wrapper in TypeScript.
 - https://github.com/jonaslagoni/Java-to-JSON-Schema, a JSON Schema draft-7 DSL for writing JSON Schema through code in Java. 
 - https://github.com/jonaslagoni/Java-to-AsyncAPI, an AsyncAPI DSL for writing AsyncAPI documents through code in Java. Uses the JSON Schema variant as well internally to define payloads.
+- https://github.com/asyncapi/dotnet-nats-template, an AsyncAPI template for generating .NET/C# NATS code, superseded by [The Codegen Project](https://github.com/the-codegen-project/cli/)
+- https://github.com/asyncapi/ts-nats-template, an AsyncAPI template for generating TypeScript NATS code, superseded by [The Codegen Project](https://github.com/the-codegen-project/cli/)
 
 </details>
 
 ## Writings
-I am using [eventstack.tech/posts](https://eventstack.tech/posts) as my personal sanctuary for writing stuff about the projects, updates, and different tech stuff.
+I am using [eventstack.tech/posts](https://eventstack.tech/posts) as my personal sanctuary for writing stuff about projects, updates, and different tech stuff.
 
 Here is an overview of the subjects so far:
 - Automated code generation ([introduction](https://eventstack.tech/posts/automated-utopia), [versioning](https://eventstack.tech/posts/automated-utopia-versioning), for [TypeScript libraries](https://eventstack.tech/posts/automated-utopia-typescript), for [.NET libraries](https://eventstack.tech/posts/automated-utopia-dotnet))
