@@ -6,11 +6,11 @@ What have, and am I working on? 👀
   <tr>
     <td>
       <img src="https://github.com/user-attachments/assets/f1dd3b47-4481-42a4-ac8a-63d9547a5a01" alt="EventStack"/>
-      <h1><a href="https://eventstack.tech">EventStack</a></h1><p>Is my company that develops software and offers consultancy and contract work around event-driven architectures and open source software.</p>
+      <h1><a href="https://eventstack.tech">EventStack</a></h1><p>Is my company that develops software and offers consultancy and contract work around event-driven architectures and open-source software.</p>
     </td>
     <td>
       <img src="https://github.com/user-attachments/assets/5a839f64-8ed3-49fe-84e2-899cbd7d5027" alt="The Codegen Project banner"/>
-      <h1><a href="https://github.com/the-codegen-project/">The Codegen Project</a></h1><p>Is a next-gen code generator, that easily can be integrated into any project (regardless of language) that simplifies the implementation and testing phase - 100% open source.</td>
+      <h1><a href="https://github.com/the-codegen-project/">The Codegen Project</a></h1><p>Is a next-gen code generator, that easily can be integrated into any project (regardless of language) that simplifies the implementation and testing phase.</td>
   </tr>
   <tr style="vertical-align: top;">
     <td>
@@ -21,21 +21,29 @@ What have, and am I working on? 👀
       <img src="asyncapi.png" alt="AsyncAPI logo"/>AsyncAPI was a spare-time project turned full-time job at <a href="https://www.postman.com/">Postman</a> for an amazing 4 years and still engaged with the project. I am part of the <a href="https://www.asyncapi.com/community/tsc">AsyncAPI Technical Steering Committee</a>, release coordinator for v3, and maintainer and creator of a bunch of the <a href="https://github.com/orgs/asyncapi/repositories">open source tools</a> such as;</br>
       <ul>
         <li><a href="https://github.com/asyncapi/modelina">Modelina</a> a library I started with <a href="https://github.com/magicmatatjahu">Maciej</a> for generating models from various inputs (AsyncAPI, OpenAPI, JSON Schema, TypeScript models, etc) into various outputs (TypeScript, C#, Python, etc). Try it here <a href="https://modelina.org/playground">modelina.org/playground</a></li>
-        <li><a href="https://github.com/asyncapi/EDAVisualiser/">EDAVisualiser</a> a visualization tool for simple and complex systems, which support all the major design frameworks, React, Next, Vue, Angular, etc. Try it here <a href="https://asyncapi.github.io/EDAVisualiser">asyncapi.github.io/EDAVisualiser</a></li>
+        <li><a href="https://github.com/asyncapi/EDAVisualiser/">EDAVisualiser</a> a visualization tool for simple and complex systems, which supports all the major design frameworks, React, Next, Vue, Angular, etc. Try it here <a href="https://asyncapi.github.io/EDAVisualiser">asyncapi.github.io/EDAVisualiser</a></li>
         <li><a href="https://github.com/asyncapi/generator-react-sdk">React SDK</a> a contender to Nunjucks to render templates that could be anything. Read more here <a href="https://www.asyncapi.com/docs/tools/generator/react-render-engine">asyncapi.com/docs/tools/generator/react-render-engine</a></li>
       </ul>
     </td>
   </tr>
 </table>
 
-# Tooling
-Here are all the tools I am actively maintaining;
+## Tooling
+Here are all the tools I am doing some kind of maintenance on;
 
-- <h5>GH Action for bumping .NET versions</h5> <a href="https://github.com/jonaslagoni/gh-action-dotnet-bump">Automatically bump .NET/C# version</a> of libraries, by following semantic release.
-- <h5>GH Action for bumping AsyncAPI documents</h5> <a href="https://github.com/jonaslagoni/gh-action-asyncapi-document-bump">Automatically bump the application version for AsyncAPI documents</a> by following semantic release.
+- <a href="https://github.com/the-codegen-project/cli">The Codegen Project CLI</a> - the next-gen code generator that easily can be integrated into any project (regardless of language) that simplifies the implementation and testing phase.
+- <a href="https://github.com/asyncapi/modelina">Modelina</a> - A library I started with <a href="https://github.com/magicmatatjahu">Maciej</a> for generating models from various inputs (AsyncAPI, OpenAPI, JSON Schema, TypeScript models, etc) into various outputs (TypeScript, C#, Python, etc). Try it here <a href="https://modelina.org/playground">modelina.org/playground</a>.
+- <a href="https://github.com/asyncapi/EDAVisualiser">EDAVisualiser</a> - A visualization tool for simple and complex systems, which supports all the major design frameworks, React, Next, Vue, Angular, etc. Try it here <a href="https://asyncapi.github.io/EDAVisualiser">asyncapi.github.io/EDAVisualiser</a>.
+- <a href="https://github.com/asyncapi/generator-react-sdk">React SDK</a> - A contender to Nunjucks to generate anything from templates while enabling easy debugging and testing. Read more here <a href="https://www.asyncapi.com/docs/tools/generator/react-render-engine">asyncapi.com/docs/tools/generator/react-render-engine</a>.
+- <a href="https://github.com/asyncapi/parser-js">AsyncAPI JS/TS Parser</a> - Enable easy interaction with AsyncAPI documents and give a production-level abstraction so you don't have to change your implementation when new AsyncAPI versions get released. 
+- <a href="https://github.com/asyncapi/generator">AsyncAPI Generator</a> - can generate anything from AsyncAPI using templates.
+- <a href="https://github.com/asyncapi/converter-js">AsyncAPI Converter</a> - can convert to AsyncAPI from OpenAPI, Postman Collection, and upgrade when new AsyncAPI versions occur.
+- <a href="https://github.com/jonaslagoni/gh-action-dotnet-bump">GH Action for bumping .NET versions</a> - Automatically bump .NET/C# version of libraries, by following semantic release.
+- <a href="https://github.com/jonaslagoni/gh-action-asyncapi-document-bump">GH Action for bumping AsyncAPI documents</a> - Automatically bump the application version for AsyncAPI documents by following semantic release.
+- <a href="https://github.com/asyncapi/spec-json-schemas">AsyncAPI JSON Schema collection</a> - The collection of JSON Schema documents that can validate all AsyncAPI versions, while still being maintainable through bundling, testing, and linting.
 
 <details>
-  <summary>Here is a list of all the previous libraries and projects I have worked on.</summary>
+  <summary>Here is a list of all the previous/archived libraries and projects I have worked on;</summary>
 
 - https://github.com/jonaslagoni/Wizard-Of-Treldan, university group project, 2d and 2 different UI games in one, with a custom game engine, written in Java.
 - https://github.com/jonaslagoni/NEON, university group project, a 2d tower defense game, using OSGi to use a modular system to load and unload towers, maps, game modes, etc on the fly, build upon libgdx, written in Java.
@@ -52,7 +60,7 @@ Here are all the tools I am actively maintaining;
 </details>
 
 ## Writings
-I am using [eventstack.tech/posts](https://eventstack.tech/posts) as my personal sanctuary for writing stuff about projects, updates, and different tech stuff.
+I am using [eventstack.tech/posts](https://eventstack.tech/posts) as my personal sanctuary for writing stuff about projects, updates, and different tech stuff, but can also be found in the wild.
 
 Here is an overview of the subjects so far:
 - Automated code generation ([introduction](https://eventstack.tech/posts/automated-utopia), [versioning](https://eventstack.tech/posts/automated-utopia-versioning), for [TypeScript libraries](https://eventstack.tech/posts/automated-utopia-typescript), for [.NET libraries](https://eventstack.tech/posts/automated-utopia-dotnet))
@@ -60,6 +68,8 @@ Here is an overview of the subjects so far:
 - API versioning ([theory](https://eventstack.tech/posts/versioning-is-easy), [in practice](https://eventstack.tech/posts/asyncapi-versioning-in-practice))
 - [Reusability in AsyncAPI causing problems](https://eventstack.tech/posts/reusability-causing-problems)
 - AsyncAPI tooling updates (week [30](https://eventstack.tech/posts/asyncapi-tooling-update-1), [33](https://eventstack.tech/posts/asyncapi-tooling-update-week-33), [39](https://eventstack.tech/posts/asyncapi-tooling-update-week-39), [46](https://eventstack.tech/posts/asyncapi-tooling-update-week-46))
+- AsyncAPI v3 ([first look at request/reply](https://eventstack.tech/posts/asyncapi-v3-request-reply), [The New Era Approaches](https://www.asyncapi.com/blog/the-new-era-approaches), [release notes](https://www.asyncapi.com/blog/release-notes-3.0.0), [AsyncAPI v2 to v3 migration](https://www.asyncapi.com/docs/migration/migrating-to-v3)) 
+- AsyncAPI tooling pitches ([scaling parsers](https://eventstack.tech/posts/pitch-scaling-parsers), [better reference handling](https://eventstack.tech/posts/pitch-reference-tools))
 
 ## Conferences
 This section is more for me than you, trying to keep track of what I am participating in or have.
