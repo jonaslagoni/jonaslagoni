@@ -70,6 +70,7 @@ Here is an overview of the subjects so far:
 - AsyncAPI tooling updates (week [30](https://eventstack.tech/posts/asyncapi-tooling-update-1), [33](https://eventstack.tech/posts/asyncapi-tooling-update-week-33), [39](https://eventstack.tech/posts/asyncapi-tooling-update-week-39), [46](https://eventstack.tech/posts/asyncapi-tooling-update-week-46))
 - AsyncAPI v3 ([first look at request/reply](https://eventstack.tech/posts/asyncapi-v3-request-reply), [The New Era Approaches](https://www.asyncapi.com/blog/the-new-era-approaches), [release notes](https://www.asyncapi.com/blog/release-notes-3.0.0), [AsyncAPI v2 to v3 migration](https://www.asyncapi.com/docs/migration/migrating-to-v3)) 
 - AsyncAPI tooling pitches ([scaling parsers](https://eventstack.tech/posts/pitch-scaling-parsers), [better reference handling](https://eventstack.tech/posts/pitch-reference-tools))
+- AsyncAPI blogs ([The Reference Rabbit Hole](https://www.asyncapi.com/blog/the-reference-rabbit-hole), [Simplify code generation with React](https://www.asyncapi.com/blog/react-as-generator-engine), [Using JSON Schema Beyond Validation](https://www.asyncapi.com/blog/json-schema-beyond-validation))
 
 ## Conferences
 This section is more for me than you, trying to keep track of what I am participating in or have.
